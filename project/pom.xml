@@ -11,7 +11,7 @@
         javaee 6, in that order.</description>
     <url>http://jsf-spec.java.net/</url>
     <build>
-        <finalName>siva.war</finalName>
+        <finalName>siva</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
